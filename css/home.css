@@ -1,0 +1,21 @@
+.lt-home-wrapper {
+	margin: 4em 5em;
+}
+
+.lt-center {
+	text-align: center;
+}
+
+.lt-sitetitle {
+	font-size: 4em;
+	margin-bottom: 1em;
+}
+
+.lt-sitetitle sup {
+	font-size: 0.5em;
+}
+
+.lt-lead {
+	font-size: 2em;
+	line-height: 1.5em;
+}
